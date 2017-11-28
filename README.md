@@ -1,2 +1,2 @@
 # best-repo-ever, isn't it?
-at least, in branch 2, we have some text here.
+at least, in branch merge, we have some text here.
